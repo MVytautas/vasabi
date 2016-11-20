@@ -1,0 +1,1 @@
+web: java $JVM_OPTS -cp target/vasabi.jar clojure.main -m vasabi.server
